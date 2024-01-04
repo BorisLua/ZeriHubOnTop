@@ -1,6 +1,6 @@
 local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLmao/Ui-Libs/Main/Playstation/Playstation.Source"))()
 
-        local UI = GUI:CreateWindow("Zeri Hub V1.2","W QP maded by boris and name by ATOMIC.DEV")
+        local UI = GUI:CreateWindow("Zeri Hub V1.2","W QP maded by CtrlDev and name by ATOMIC.DEV")
 
         local Home = UI:addPage("FPS Games",1,true,6)
 
@@ -185,5 +185,5 @@ local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/CasparLma
             loadstring(game:HttpGet(('https://pastefy.app/xXkUxA0P/raw'),true))()
         end)
 
-        UN:addLabel("Tell me a suggestion!","Just enter the qp server and ping @b.ori.s on Discord ;)")
+        UN:addLabel("Tell me a suggestion!","Just enter the qp server and ping @ctrl.dev on Discord ;)")
     end
